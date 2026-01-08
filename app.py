@@ -4,3 +4,5 @@ print(Hello from B)
 
 print(Merge Conflict)
 
+print(Merging)
+
